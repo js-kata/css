@@ -16,7 +16,7 @@ Zakoduj layout tak, żeby:
 Zakoduj layout tak, żeby:
 1. szerokość kolumny `Navigation` wynosiła zawsze tyle, ile najszerszy element w niej umieszczony,
 2. pozostałe kolumny wypełniły po równo resztę wolnego miejsca na ekranie,
-3. odstępy między kolumnami i wierszami wynosiły dwukrotność rozmiaru fonta ustawionego dla elementu `body`.
+3. odstępy między kolumnami i wierszami wynosiły dwukrotność rozmiaru fonta ustawionego dla elementu `html`.
 
 ### Zadanie 3
 Zakoduj layout tak, żeby:
