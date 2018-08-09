@@ -5,5 +5,4 @@
 Zakoduj layout na wzór makiety poniżej:
 ![holy-grail](resources/olympics.png)
 
-## Zadanie 1
 Utwórz koła olimpijskie uzywając CSS Grida.
