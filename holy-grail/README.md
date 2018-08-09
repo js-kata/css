@@ -22,10 +22,3 @@ Zakoduj layout tak, żeby:
 Zakoduj layout tak, żeby:
 1. szerokość kolumny `Main content` zajmowała 3/5 szerokości ekrany,
 2. pozostałe kolumny wypełniły po równo resztę wolnego miejsca na ekranie.
-
-### Zadanie 4
-Zakoduj layout tak, żeby:
-1. szerokość kolumny `Main content` wynosiła minimalnie 100px a maksymalnie 70% szerokości ekranu,
-2. szerokość kolumny `Sidebar` dopasowywała swoją szerokość do umieszczonych w niej treści, ale nie przekraczała szerokości `300px`,
-3. kolumna `Navigation` zajmowała pozostałą część ekranu.
-

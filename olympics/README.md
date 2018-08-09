@@ -7,6 +7,3 @@ Zakoduj layout na wzór makiety poniżej:
 
 ## Zadanie 1
 Utwórz koła olimpijskie uzywając CSS Grida.
-
-## Zadanie 2
-Utwórz koła olimpijskie używając Flexboxa.

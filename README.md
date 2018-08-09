@@ -1,6 +1,8 @@
 # CSS Kata
 
-## Flexbox & Grid
+## Grid
+
+Ten artykuł pomoże Tobie zrozumieć działanie grida: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 Spróbuj rozwiązać wszystkie zadania z poniższych. Po wejściu na odpowiedni link zobaczysz makietę layoutu do zakodowania za pomocą html i css wraz z informacjami pomocniczymi.
 
@@ -9,7 +11,6 @@ Spróbuj rozwiązać wszystkie zadania z poniższych. Po wejściu na odpowiedni 
 - [Holy Grail](/holy-grail)
 - [Golden Spiral](/golden-spiral)
 - [Yahtzee](/yahtzee)
-- [Jira Dashboard](/jira-dashboard)
 - [Olympics](/olympics)
 * [RWD](/rwd)
 
